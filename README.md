@@ -1,5 +1,5 @@
-# **Analyzing Text and Generating Summarized Image
-**
+# Analyzing Text and Generating Summarized Image
+
 
 ## Introduction
 In this code snippet, we will delve into text analysis and summarization using Python. The code processes a text file containing book summaries, extracts key information, generates a summary, and visualizes it as an image.
@@ -9,9 +9,9 @@ In this code snippet, we will delve into text analysis and summarization using P
 #### Code Structure
 **1-Text Processing:**
 Reads the book summaries text file and preprocesses the content.
-Tokenizes words and sentences, removes stopwords, and calculates word frequencies.
+Tokenizes words and sentences, removes stopwords, and calculates word frequencies. \n
 **2-Text Summarization:**
-Generates a summary of the text using the T5 transformer model.
+Generates a summary of the text using the T5 transformer model. \n
 **3-Image Visualization:**
 Visualizes the summarized text as an image using Matplotlib.
 
