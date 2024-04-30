@@ -2,7 +2,7 @@
 
 
 ## Introduction
-In this code, we will explore how to analyze and summarize text using Python. We will cover concepts such as counting characters, words, and unique words in a text, removing stopwords, calculating word frequencies, and generating a summary using a pre-trained language model.
+Automatic text summarization is the process of condensing a piece of text into a shorter version while preserving its main ideas and key information. It is a useful technique for extracting important information from large amounts of text and can be applied in various domains such as news articles, research papers, and book summaries.
 
 
 ## Key Concepts
@@ -37,4 +37,4 @@ The code is divided into several sections, each performing a specific task:
 
 
 ## Conclusion
-In this code, we have explored how to analyze and summarize text using Python. We have covered concepts such as counting characters, words, and unique words, removing stopwords, calculating word frequencies, and generating a summary using a pre-trained language model. By understanding and applying these techniques, you can gain valuable insights from text data and generate concise summaries for further analysis or presentation.
+In this code example, we have explored how to automatically summarize a book summary using Python. We have also generated images based on the summarized text using different artistic styles. Text summarization and image generation are powerful techniques that can be applied in various domains to extract important information and create visually appealing content. By combining natural language processing and image processing techniques, we can automate the process of summarizing text and generating images, saving time and effort in content creation.
